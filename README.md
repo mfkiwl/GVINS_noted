@@ -9,11 +9,16 @@ GVINS 在VINS的基础上紧耦合gnss原始数据(多普勒、伪距、时间�
 
 
 ## 4.数据集及实车测试
+1.所用的复现设备:  
+ublox zedf9p  
+FDI N100
+双目
 
 
 ## 5. 个人思考
 
 
 ## 6.参考
-GVINS
+GVINS paper
+VINS-MONO papre
 
